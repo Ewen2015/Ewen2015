@@ -2,11 +2,9 @@
 
 I raise 3 cats🐈:
 
-[![gossipcat](https://badge.fury.io/py/gossipcat.svg)](https://badge.fury.io/py/gossipcat) 🐱**GossipCat**: a data **scientist**
-
-[![batcat](https://badge.fury.io/py/batcat.svg)](https://badge.fury.io/py/batcat) 🐱**BatCat**: a machine learning **engineer**
-
-[![impressionismcat](https://badge.fury.io/py/impressionismcat.svg)](https://badge.fury.io/py/impressionismcat) 🐱**ImpressionismCat**: a deep learning **artsit**
+- [![gossipcat](https://badge.fury.io/py/gossipcat.svg)](https://badge.fury.io/py/gossipcat) 🐱**GossipCat**: a data **scientist**
+- [![batcat](https://badge.fury.io/py/batcat.svg)](https://badge.fury.io/py/batcat) 🐱**BatCat**: a machine learning **engineer**
+- [![impressionismcat](https://badge.fury.io/py/impressionismcat.svg)](https://badge.fury.io/py/impressionismcat) 🐱**ImpressionismCat**: a deep learning **artsit**
 
 <!--
 **Ewen2015/Ewen2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
