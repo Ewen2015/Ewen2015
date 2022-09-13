@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I raise 3 cats🐈:
+I raise 3 cats🐈 on GitHub :octocat: :
 
 - [![gossipcat](https://badge.fury.io/py/gossipcat.svg)](https://badge.fury.io/py/gossipcat) 🐱[**GossipCat**](https://gossipcat.readthedocs.io): a data **scientist**
 - [![batcat](https://badge.fury.io/py/batcat.svg)](https://badge.fury.io/py/batcat) 🐱[**BatCat**](https://batcat.readthedocs.io): a machine learning **engineer**
