@@ -2,7 +2,7 @@
 
 I raise 3 cats🐈 on GitHub :octocat: :
 
-- [![gossipcat](https://badge.fury.io/py/gossipcat.svg)](https://badge.fury.io/py/gossipcat) 🐱[**GossipCat**](https://gossipcat.readthedocs.io): a data **scientist**
+- [![PyPI version](https://badge.fury.io/py/gossipcat@2x.png)](https://badge.fury.io/py/gossipcat) 🐱[**GossipCat**](https://gossipcat.readthedocs.io): a data **scientist**
 - [![batcat](https://badge.fury.io/py/batcat.svg)](https://badge.fury.io/py/batcat) 🐱[**BatCat**](https://batcat.readthedocs.io): a machine learning **engineer**
 - [![impressionismcat](https://badge.fury.io/py/impressionismcat.svg)](https://badge.fury.io/py/impressionismcat) 🐱[**ImpressionismCat**](https://impressionismcat.readthedocs.io/): a deep learning **artsit**
 
