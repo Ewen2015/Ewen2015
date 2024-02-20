@@ -1,22 +1,9 @@
 ### Hi there 👋
 
-I raise 3 cats🐈 on GitHub :octocat: :
+I share my experience in artificial intelligence and data science (as 🐈) in the industry on GitHub :octocat: :
 
-- [![PyPI version](https://badge.fury.io/py/gossipcat.svg)](https://badge.fury.io/py/gossipcat) 🐱[**GossipCat**](https://gossipcat.readthedocs.io): a data **scientist**
-- [![batcat](https://badge.fury.io/py/batcat.svg)](https://badge.fury.io/py/batcat) 🐱[**BatCat**](https://batcat.readthedocs.io): a machine learning **engineer**
-- [![impressionismcat](https://badge.fury.io/py/impressionismcat.svg)](https://badge.fury.io/py/impressionismcat) 🐱[**ImpressionismCat**](https://impressionismcat.readthedocs.io/): a deep learning **artsit**
+- [![PyPI version](https://badge.fury.io/py/gossipcat.svg)](https://badge.fury.io/py/gossipcat) 🐱[**GossipCat**](https://gossipcat.readthedocs.io): A DS project management tool for **data scientists**
+- [![batcat](https://badge.fury.io/py/batcat.svg)](https://badge.fury.io/py/batcat) 🐱[**BatCat**](https://batcat.readthedocs.io): A MLOps practice package for **machine learning engineers**
+- [![impressionismcat](https://badge.fury.io/py/impressionismcat.svg)](https://badge.fury.io/py/impressionismcat) 🐱[**ImpressionismCat**](https://impressionismcat.readthedocs.io/): A 
+  deep learning project for **artsit** for fun
 
-<!--
-**Ewen2015/Ewen2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
